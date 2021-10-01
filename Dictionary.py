@@ -10,6 +10,7 @@ print(sum)"""
 values = [1, 2, 3]
 dictionary = dict(zip(keys, values))
 print(dictionary)"""
+print(dictionary)
 
 
 # 9
